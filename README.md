@@ -35,6 +35,8 @@ limitations under the License.
 
 > Return a view of the diagonal of a matrix (or stack of matrices).
 
+<!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
+
 <section class="intro">
 
 For an `M`-by-`N` matrix `A`, the `k`-th diagonal is defined as
@@ -72,6 +74,8 @@ the main diagonal is `[ a_{0,0}, a_{1,1}, a_{2,2} ]`, the super-diagonal `k = 1`
 </section>
 
 <!-- /.intro -->
+
+<!-- Package usage documentation. -->
 
 <section class="installation">
 
@@ -126,6 +130,8 @@ The function accepts the following arguments:
 
 <!-- /.usage -->
 
+<!-- Package usage notes. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="notes">
 
 ## Notes
@@ -139,6 +145,8 @@ The function accepts the following arguments:
 </section>
 
 <!-- /.notes -->
+
+<!-- Package usage examples. -->
 
 <section class="examples">
 
@@ -173,6 +181,8 @@ console.log( ndarray2array( y ) );
 </section>
 
 <!-- /.examples -->
+
+<!-- Section to include cited references. If references are included, add a horizontal rule *before* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="references">
 
